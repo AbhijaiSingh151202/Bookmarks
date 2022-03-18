@@ -110,6 +110,7 @@ input, textarea {
     font-size:14px;
 }
 input[type=submit], a.button {
+    cursor: pointer;
     font-weight:bold;
     background:#12c064;
     color:#fff;
